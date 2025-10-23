@@ -26,9 +26,11 @@ announcements:
   limit: 3 # leave blank to include all the blog posts -->
 ---
 
-I am a second-year Ph.D. student in the Computer Science department at Carnegie Mellon University, where I am fortunate to be advised by [Nina Balcan](https://www.cs.cmu.edu/~ninamf/). Previously, I graduated from UC Berkeley, where I majored in Electrical Engineering & Computer Science. There I had the privilege to be mentored by [Ellen Vitercik](https://vitercik.github.io/) and [Nika Haghtalab](https://people.eecs.berkeley.edu/~nika/).
+I am a second-year Ph.D. student in the Computer Science department at Carnegie Mellon University, where I am fortunate to be advised by [Nina Balcan](https://www.cs.cmu.edu/~ninamf/).
 
-I am broadly interested in the intersection of foundations of machine learning and algorithmic game theory. In particular, my research aims to understand agency and incentives between AI systems in order to achieve strong performance guarantees in strategic environments.
+Previously, I graduated from UC Berkeley, where I majored in Electrical Engineering & Computer Science. I am thankful to a number of mentors I met during my undergrad, who have supported my career including [Ellen Vitercik](https://vitercik.github.io/), [Nika Haghtalab](https://people.eecs.berkeley.edu/~nika/), and [Vasilis Syrgkanis](https://vsyrgkanis.com/).
+
+My research interests are broadly in the intersection of foundations of machine learning and algorithmic game theory. In particular, my research aims to understand agency and incentives between AI systems in order to achieve strong performance guarantees in strategic environments.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
